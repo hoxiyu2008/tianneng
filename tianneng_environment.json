@@ -1,0 +1,356 @@
+{
+	"id": "834472ec-63cd-4b6a-84cc-ed76e0a5518b",
+	"name": "天能客户测试环境",
+	"values": [
+		{
+			"key": "test_ip",
+			"value": "http://hrssctest.etianneng.cn:12380/apigw/api/v1",
+			"enabled": true
+		},
+		{
+			"key": "login_tk",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "wtk",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_siglogin",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APlanguage",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AProleType",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APcompanyId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APstyle",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APdevice",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_aid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_tk",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_sig",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APsort",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APorder",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AProws",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APpage",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APffk",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APfunId",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "APdata",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APlogType",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "notice_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "announce_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "record_count",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_mt",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APfunId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APids",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "schoolId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lizhicailiao_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lizhicailiao_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lizhicailiao_org",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhixianzhi_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhixianzhi_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhixianzhi_phonenum",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhixianzhi_emailnum",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhixianzhi_cardnum",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "hetonggangweiguanxi_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "hetonggangweiguanxi_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "hetonggangweiguanxi_carlevel",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dianzidanganleixing_arctyCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dianzidanganleixing_arctyType",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dianzidanganleixing_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "kuozhanxiangmu_kzxmCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "kuozhanxiangmu_kzxmName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "kuozhanxiangmu_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "jingzhengxianzhi_kzxmCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "jingzhengxianzhi_treaApplyDis",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "jingzhengxianzhi_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "jingzhengxianzhi_treaSub",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shengrizhounian_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shengrizhounian_pdcContext",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shengrizhounian_pdcPic",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhitishishezhi_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhitishishezhi_pdeCompDis",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ruzhitishishezhi_pdeContext",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APtbName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APstepId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APflowId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "APclmMap",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-06-04T08:53:58.185Z",
+	"_postman_exported_using": "Postman/9.20.3"
+}
